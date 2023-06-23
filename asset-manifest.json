@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LoockBTL/static/css/main.17c3133a.css",
+    "main.js": "/LoockBTL/static/js/main.48911cca.js",
+    "static/media/Serhii-Pakhar-CV.pdf": "/LoockBTL/static/media/Serhii-Pakhar-CV.5758ddb06480880aa8a8.pdf",
+    "index.html": "/LoockBTL/index.html",
+    "main.17c3133a.css.map": "/LoockBTL/static/css/main.17c3133a.css.map",
+    "main.48911cca.js.map": "/LoockBTL/static/js/main.48911cca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17c3133a.css",
+    "static/js/main.48911cca.js"
+  ]
+}
